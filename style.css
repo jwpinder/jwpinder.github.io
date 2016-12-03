@@ -1,53 +1,77 @@
+h2 {
+     color: #AA7139;
+ }
+ 
+ #third-section {
+     background-color:#255c69;
+ }
+ 
+ .third-paragraph {
+     color: orange
+ }
+ 
+ width: 960xp;
+ #first-division {
+     background-color: #255c69;
+ }
+ 
+ div {
+     width: 960px;
+ }
+ 
+ div {
+     margin: 0 auto
+ }
+ 
+ #third-section {
+     text-align: center
+ }
+ 
+ #rapids {
+     width: 960px;
+ }
+ 
+ @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+ @import url('https://fonts.googleapis.com/css?family=Cabin|Open+Sans');
  h2 {
-            color: #AA7139;
-        }
-        
-        #third-section {
-            background-color: #255c69;
-        }
-        
-        .third-paragraph {
-            color: orange
-        }
-        
-        width: 960xp;
-        #first-division {
-            background-color: #255c69;
-        }
-        
-        div {
-            width: 960px;
-        }
-        
-        div {
-            margin: 0 auto
-        }
-        
-        #third-section {
-            text-align: center
-        }
-        
-        #rapids { 
-            width: 960px;
-        }
-        
-       @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+     padding-bottom: 0cm
+ }
+ 
+ h2 {
+     padding-top: 2cm
+ }
+ 
+ h2 {
+     font-family: 'Cabin', sans-serif;
+ }
+ 
+ p {
+     font-family: 'Open Sans', sans-serif;
+ }
+ 
+ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+ }
+li a {
+    display: block;
+    width: 100px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    
+}
 
-        @import url('https://fonts.googleapis.com/css?family=Cabin|Open+Sans');
-        
-        h2 {
-           padding-bottom: 0cm
-        }
-        
-        h2 {padding-top: 2cm}
-        
-        h2 {
-            
-            font-family: 'Cabin', sans-serif;
-
-        }
-        
-        p {
-            
-            font-family: 'Open Sans', sans-serif;
-        }
+li a {
+    background-color #255c69;
+    padding: 8px 16px;
+    float: left;
+    
+    
+    
+    
